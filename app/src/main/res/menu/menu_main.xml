@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.saengsaengyaktong.MainActivity">
+    <item
+        android:id="@+id/menu_home"
+        android:icon="@drawable/outline_home_24"
+        android:title="홈" />
+    <item
+        android:id="@+id/menu_profile"
+        android:icon="@drawable/outline_person_24"
+        android:title="프로필" />
+</menu>
